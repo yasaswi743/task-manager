@@ -1,3 +1,35 @@
+# Smart Task Manager Frontend
+
+A modern MERN stack productivity application frontend built using React.js and Tailwind CSS.
+
+## Features
+- Authentication UI
+- Dashboard
+- Task Management
+- Analytics
+- Responsive Design
+
+## Tech Stack
+- React.js
+- Tailwind CSS
+- Axios
+- React Router
+
+  # Smart Task Manager Backend
+
+Backend API for Smart Task Manager built using Node.js, Express.js, MongoDB, and JWT Authentication.
+
+## Features
+- User Authentication
+- JWT Security
+- CRUD APIs
+- MongoDB Integration
+
+## Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+- JWT
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
